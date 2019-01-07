@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+		<root-path
+        name="EmojiRoot"
+        path="" /> 
+		<external-files-path
+        name="EmojiExFiles"
+        path="" /> 
+		</paths>
+</resources>
